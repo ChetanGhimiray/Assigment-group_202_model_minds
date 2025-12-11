@@ -3,7 +3,9 @@
 Classic DQN algorithm implementation based on the Nature 2015 paper.
 
 ## Team: Model Minds
-
+chetan ghimiray 
+gayley namygyel
+jigme namgyel dorji
 ## Features
 - Experience Replay Buffer
 - Target Network
